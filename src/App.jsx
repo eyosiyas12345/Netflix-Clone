@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
   return(
-<h1>Netflix</h1>
+<h1 className="text-blue-500 text-center">Netflix</h1>
   );
 }
 
